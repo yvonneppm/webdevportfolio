@@ -1,8 +1,8 @@
 # TerpBooth
 
-An interactive web-based photobooth built for the University of Maryland community. TerpBooth allows users to capture photos directly from their webcam, customize them with themed frames, and download the final image.
+**Tech Stack:** HTML, CSS, JavaScript
 
-Tech Stack: HTML, CSS, JavaScript
+An interactive web-based photobooth built for the University of Maryland community. TerpBooth allows users to capture photos directly from their webcam, customize them with themed frames, and download the final image.
 
 ## Features
 
