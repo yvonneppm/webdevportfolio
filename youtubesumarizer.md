@@ -4,7 +4,7 @@
 
 Built a web application that automatically retrieves YouTube video transcripts and generates AI-powered summaries.
 
-### Features
+## Features
 - Paste a YouTube URL
 - Retrieve transcripts using the YouTube Transcript API
 - Generate summaries and key takeaways using Google's Gemini API
