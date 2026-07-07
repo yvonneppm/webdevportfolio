@@ -1,5 +1,7 @@
 # HabiTrack
 
+Tech Stack: XCode, Swift
+
 An app that allows users to track their habits across a week, they would be able to add a habit, check it off and see streaks.
 
 ## Features
